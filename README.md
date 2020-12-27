@@ -41,8 +41,8 @@ ___
 ![Markdown logo](https://markdown-here.com/img/icon128.png)
 
 
-
 ### What is markdown?
+<!-- Unordered list -->
 * Lightweight markup language with a plain text formatting syntax
 * Can be converted into HTML/XHTML and other formats
 * It's main purpose is readability and ease of use
@@ -53,6 +53,7 @@ ___
     * Used in many static site generators
 
 ### Some Things You Can Format
+<!-- Ordered list -->
 1. Headings
 1. Lists
 1. Emphasis
