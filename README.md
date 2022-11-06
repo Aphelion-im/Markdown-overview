@@ -50,7 +50,7 @@ or
 <!-- Unordered list -->
 * Lightweight markup language with a plain text formatting syntax
 * Can be converted into HTML/XHTML and other formats
-* It's main purpose is readability and ease of use
+* Its main purpose is readability and ease of use
 
 ### What Is It Used For?
 * Readme files (Github, etc.)
