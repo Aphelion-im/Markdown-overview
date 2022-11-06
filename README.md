@@ -40,6 +40,11 @@ ___
 <!-- Images -->
 ![Markdown logo](https://markdown-here.com/img/icon128.png)
 
+or
+
+```html
+<img src="drawing.jpg" alt="drawing" width="200">
+```
 
 ### What is markdown?
 <!-- Unordered list -->
