@@ -92,3 +92,6 @@ function count(num1, num2) {
 * [x] Item 1
 * [x] Item 2
 * [ ] Item 3
+
+## Notes Novi Hogeschool
+* `index.html` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. (Highlight filename or code)
