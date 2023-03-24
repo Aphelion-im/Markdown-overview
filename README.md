@@ -1,4 +1,5 @@
 # Markdown Overview
+Updated 24-3-2023
 
 <!-- Headings -->
 # Header 1
@@ -81,6 +82,11 @@ function count(num1, num2) {
   return num1 + num2;
 }
 ```
+
+Simulate console/terminal:
+```console
+npm install
+``` 
 
 <!-- Tables -->
 | Name  | Email
