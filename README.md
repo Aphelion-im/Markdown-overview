@@ -1,7 +1,7 @@
 # Markdown Overview
 Updated 29-3-2023
 
-<a target="_blank" href="https://www.markdownguide.org">Markdown Guide</a>
+[Markdown Guide](https://www.markdownguide.org)
 
 <!-- Headings -->
 # Header 1
