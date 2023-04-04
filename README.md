@@ -1,7 +1,13 @@
 # Markdown Overview
-Updated 29-3-2023
+Updated 4-4-2023
 
+# Markdown Documentation & Tools
+[In-browser Markdown Editor](https://stackedit.io)
 [Markdown Guide](https://www.markdownguide.org)
+[Markdown Interactive Tutorial](https://www.markdowntutorial.com)
+[Markdown Monster - The Markdown editor for Windows](https://markdownmonster.west-wind.com)
+[Markdown Software](https://kde.github.io/ghostwriter/)
+[Online Markdown Writer Tool](https://dillinger.io)
 
 <!-- Headings -->
 # Header 1
@@ -22,6 +28,8 @@ _This text_ is italic
 **This text** is strong
 
 __This text__ is strong
+
+**_This text_** is strong and italic
 
 <!-- Strikethrough -->
 ~~This text is not italic~~
