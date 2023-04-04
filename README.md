@@ -27,7 +27,7 @@ Heading 2 Alternative Notation
 <!-- Paragraphs -->
 This is a paragraph
 
-This is a paragraph   
+This is a paragraph (2 or more space + return = <br />/line break)   
 This is another paragraph with 2 or more space and a return at the end.
 
 
@@ -39,11 +39,21 @@ This is another paragraph with 2 or more space and a return at the end.
 _This text_ is italic
 
 <!-- Strong -->
-**This text** is strong
+**This text** is strong/bold
 
-__This text__ is strong
+__This text__ is strong/bold
 
 **_This text_** is strong and italic
+
+<!-- Bold and Italic -->
+
+***Important*** text
+
+___Important___ text
+
+__*Important*__ text
+
+**_Important_** text
 
 <!-- Strikethrough -->
 ~~This text is not italic~~
