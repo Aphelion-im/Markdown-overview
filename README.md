@@ -2,12 +2,12 @@
 Updated 4-4-2023
 
 # Markdown Documentation & Tools
-[In-browser Markdown Editor](https://stackedit.io)
-[Markdown Guide](https://www.markdownguide.org)
-[Markdown Interactive Tutorial](https://www.markdowntutorial.com)
-[Markdown Monster - The Markdown editor for Windows](https://markdownmonster.west-wind.com)
-[Markdown Software](https://kde.github.io/ghostwriter/)
-[Online Markdown Writer Tool](https://dillinger.io)
+* [In-browser Markdown Editor](https://stackedit.io)
+* [Markdown Guide](https://www.markdownguide.org)
+* [Markdown Interactive Tutorial](https://www.markdowntutorial.com)
+* [Markdown Monster - The Markdown editor for Windows](https://markdownmonster.west-wind.com)
+* [Markdown Software](https://kde.github.io/ghostwriter/)
+* [Online Markdown Writer Tool](https://dillinger.io)
 
 <!-- Headings -->
 # Header 1
