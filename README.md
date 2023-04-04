@@ -27,7 +27,7 @@ Heading 2 Alternative Notation
 <!-- Paragraphs -->
 This is a paragraph
 
-This is a paragraph (2 or more space + return = <br />/line break)   
+This is a paragraph (2 or more space + return = `<br />`/line break)   
 This is another paragraph with 2 or more space and a return at the end.
 
 
