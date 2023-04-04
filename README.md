@@ -18,7 +18,7 @@ Updated 5-4-2023
 ###### Heading 6
 
 <!-- Alternate headings notation -->
-Heading 1 Alternatieve Notation
+Heading 1 Alternative Notation
 ===
 
 Heading 2 Alternative Notation
@@ -27,7 +27,7 @@ Heading 2 Alternative Notation
 <!-- Paragraphs -->
 This is a paragraph
 
-This is a paragraph
+This is a paragraph   
 This is another paragraph with 2 or more space and a return at the end.
 
 
