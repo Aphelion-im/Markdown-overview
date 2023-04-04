@@ -1,5 +1,5 @@
 # Markdown Overview
-Updated 4-4-2023
+Updated 5-4-2023
 
 # Markdown Documentation & Tools
 * [In-browser Markdown Editor](https://stackedit.io)
@@ -10,12 +10,26 @@ Updated 4-4-2023
 * [Online Markdown Writer Tool](https://dillinger.io)
 
 <!-- Headings -->
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+<!-- Alternate headings notation -->
+Heading 1 Alternatieve Notation
+===
+
+Heading 2 Alternative Notation
+---
+
+<!-- Paragraphs -->
+This is a paragraph
+
+This is a paragraph
+This is another paragraph with 2 or more space and a return at the end.
+
 
 <!-- Italics & Escape-->
 *This text* is italic
