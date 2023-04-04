@@ -27,14 +27,12 @@ Heading 2 Alternative Notation
 <!-- Paragraphs -->
 This is a paragraph
 
-This is a paragraph (2 or more space + return = `<br />`/line break)   
+This is a paragraph (2 or more space + return = `<br />` (line break)   
 This is another paragraph with 2 or more space and a return at the end.
 
 
 <!-- Italics & Escape-->
 *This text* is italic
-
-\*This text\* is italic
 
 _This text_ is italic
 
@@ -43,9 +41,7 @@ _This text_ is italic
 
 __This text__ is strong/bold
 
-**_This text_** is strong and italic
-
-<!-- Bold and Italic -->
+<!-- Bold and Italic Variants -->
 
 ***Important*** text
 
@@ -56,13 +52,22 @@ __*Important*__ text
 **_Important_** text
 
 <!-- Strikethrough -->
-~~This text is not italic~~
+~~This text is not italic~~ (2x ~~ on each side)
 
 <!-- Horizontal rule -->
 ___
 
-<!-- Block quote -->
+<!-- Block quotes --> 
 > This is a quote
+
+> Multi-line
+> Block quote
+> Looks nice
+
+
+> This the first paragraph.
+>
+>> And this is the nested block quote.
 
 <!-- Hyperlinks -->
 [Markdown to HTML converter](https://www.browserling.com/tools/markdown-to-html)
