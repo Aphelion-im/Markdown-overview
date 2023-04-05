@@ -4,6 +4,7 @@ Updated 5-4-2023
 # Markdown Documentation & Tools
 * [In-browser Markdown Editor](https://stackedit.io)
 * [Markdown Guide](https://www.markdownguide.org)
+* [Markdown Here - Chrome Extension](https://markdown-here.com/index.html)
 * [Markdown Interactive Tutorial](https://www.markdowntutorial.com)
 * [Markdown Monster - The Markdown editor for Windows](https://markdownmonster.west-wind.com)
 * [Markdownpad - Editor for Windows](https://markdownpad.com)
