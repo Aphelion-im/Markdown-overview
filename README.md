@@ -6,6 +6,7 @@ Updated 5-4-2023
 * [Markdown Guide](https://www.markdownguide.org)
 * [Markdown Interactive Tutorial](https://www.markdowntutorial.com)
 * [Markdown Monster - The Markdown editor for Windows](https://markdownmonster.west-wind.com)
+* [Markdownpad - Editor for Windows](https://markdownpad.com)
 * [Markdown Software](https://kde.github.io/ghostwriter/)
 * [Online Markdown Writer Tool](https://dillinger.io)
 
@@ -76,14 +77,6 @@ ___
 [Markdown to HTML converter](https://www.browserling.com/tools/markdown-to-html)
 
 [Web developer tools](https://www.browserling.com/tools/ "Web developer tools")
-
-<!-- Reference Links -->
-   Here's [a link to something else][another place].
-     Here's [yet another link][another-link].
-     And now back to [the first link][another place].
-
-     [another place]: www.github.com
-     [another-link]: www.google.com
 
 <!-- Inline code block -->
 `<p>This is a piece of code.</p>`
