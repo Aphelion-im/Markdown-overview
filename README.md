@@ -9,6 +9,9 @@ Updated 5-4-2023
 * [Markdown Software](https://kde.github.io/ghostwriter/)
 * [Online Markdown Writer Tool](https://dillinger.io)
 
+# Markdown Cheatsheet
+* [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+
 <!-- Headings -->
 # Heading 1
 ## Heading 2
@@ -85,6 +88,11 @@ or
 ```html
 <img src="drawing.jpg" alt="drawing" width="200">
 ```
+
+<!-- Footnote-->
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
 
 ### What is markdown?
 <!-- Unordered list -->
