@@ -1,5 +1,5 @@
 # Markdown Overview
-Updated 5-4-2023
+Updated 20-5-2023
 
 # Markdown Documentation & Tools
 * [In-browser Markdown Editor](https://stackedit.io)
@@ -150,3 +150,5 @@ npm install
 
 ## Notes Novi Hogeschool
 * `index.html` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. (Highlight filename or code)
+
+[Link to a header in the same document](#) - Typing # will give you a menu with all the headers in the document.
