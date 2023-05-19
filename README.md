@@ -152,4 +152,5 @@ npm install
 * `index.html` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. (Highlight filename or code)
 
 `[Link to a header in the same document](#)`
+
 [Link to a header in the same document](#) - Typing # will give you a menu with all the headers in the document. # is home. To top.
