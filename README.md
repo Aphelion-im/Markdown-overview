@@ -148,6 +148,63 @@ npm install
 * [x] Item 2
 * [ ] Item 3
 
+<details>
+<summary>Click For Solution 1</summary>
+
+```php
+function calculateAverageSalary($jobListings) {
+  $totalSalary = 0;
+  $count = count($jobListings);
+
+  // Calculate the total salary
+  foreach ($jobListings as $job) {
+      $totalSalary += $job['salary'];
+  }
+
+  // Calculate the average salary
+  $averageSalary = ($count > 0) ? $totalSalary / $count : 0;
+
+  return formatSalary($averageSalary);
+}
+```
+
+#### Explanation
+
+- We initialize a `$totalSalary` variable to 0.
+- We get the number of items in the `$jobListings` array using the `count` function and store it in a `$count` variable.
+- We loop over the `$jobListings` array using a `foreach` loop.
+- We add the salary of each job to the `$totalSalary` variable using the `+=` operator.
+- We calculate the average salary by dividing the `$totalSalary` by the `$count` variable.
+- We return the average salary using the `formatSalary` function.
+
+</details>
+
+<details>
+<summary>Click For Solution 2</summary>
+
+```php
+function calculateAverageSalary($jobListings) {
+  $salaries = array_column($jobListings, 'salary');
+  $totalSalary = array_sum($salaries);
+  $count = count($jobListings);
+
+  // Calculate the average salary
+  $averageSalary = ($count > 0) ? $totalSalary / $count : 0;
+
+  return formatSalary($averageSalary);
+}
+```
+
+#### Explanation
+
+- We use the `array_column` function to get an array of all of the salaries.
+- We use the `array_sum` function to add up all of the salaries.
+- We get the number of items in the `$jobListings` array using the `count` function and store it in a `$count` variable.
+- We calculate the average salary by dividing the `$totalSalary` by the `$count` variable.
+- We return the average salary using the `formatSalary` function.
+
+</details>
+
 ## Notes Novi Hogeschool
 * `index.html` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. (Highlight filename or code)
 
